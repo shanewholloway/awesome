@@ -177,6 +177,7 @@ Plugins which search for, and replace text in a bundle.
 
 Plugins which affect code.
 
+- [ast-macros](https://github.com/shanewholloway/rollup-plugin-ast-macros) - Inline AST-based macro transformations.
 - [async](https://github.com/leebyron/rollup-plugin-async) - Replace `async` functions with generators.
 - [babel](https://github.com/rollup/rollup-plugin-babel) - Seamless integration with Babel.
 - [buble](https://github.com/rollup/rollup-plugin-buble) – Transpile with Bublé.
